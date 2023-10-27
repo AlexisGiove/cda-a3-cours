@@ -1,11 +1,9 @@
 .rouge {
     color: tomato;
 }
-
 .bleu {
-    color: blue;
+    color: skyblue
 }
-
 .gras {
     font-weight: bold;
 }
